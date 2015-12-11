@@ -23,5 +23,5 @@ Agile Vorgehensmodelle werden textuell und damit ungenau beschrieben. Wenn die A
 
 Das Agile Software Development Model (ASDM) liefert eine formale Beschreibung eines agilen Vorgehensmodells. In dieser Arbeit wird untersucht, ob mit dem ASDM Vorgehensmodelle hinsichtlich der Softwarequalität verglichen werden können. 
 
-![softwarequalität](/img/softwarequalität.png?raw=true "Overview base conception")
+![softwarequalität](https://github.com/wendelh/master/img/softwarequalität.png "Overview base conception")
 
